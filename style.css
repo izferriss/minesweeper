@@ -1,0 +1,15 @@
+*
+{
+    font-family: monospace;
+}
+
+body
+{
+    background-color: #353535;
+    text-align: center;
+}
+
+canvas
+{
+    border: white 1px solid;
+}
